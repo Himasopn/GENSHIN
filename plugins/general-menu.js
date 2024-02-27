@@ -10,7 +10,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 let tags = {}
 const defaultMenu = {
   before: `
-*⏱️ Jessi Md - bot_*
+𝙔𝘼𝙀 𝙈𝙄𝙆𝙊 - 𝙂𝙀𝙉𝙎𝙃𝙄𝙉<<<333🩷
 
 *♻️ Library : [ Baileys-MD ]_*
 *🕹 Prefix : [ %_p ]_*
