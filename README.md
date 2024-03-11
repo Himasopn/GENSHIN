@@ -1,4 +1,4 @@
-🫠WELLCOME ye bekar page hai isliye jab yeha se
+🫠WELLCOME ye bekar page hai isliye jao yeha se
 
 
 
